@@ -108,6 +108,11 @@ I use **TryHackMe** to sharpen troubleshooting and security skills: endpoint har
 - **Care & Support Roles – AnglicareSA & Kypseli Support Services (Adelaide, Australia)**  
   Built strong **customer-facing skills**: empathy, patience, clear communication, and responsibility in high-trust environments – the same approach I bring to IT support.
 
+
+---
+
+
+
 - **Cybersecurity & Troubleshooting Practice – TryHackMe & Job Simulations**  
  
 
