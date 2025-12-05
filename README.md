@@ -157,7 +157,7 @@ If your team needs someone who can **own tickets, communicate clearly with users
 ## 📫 Let’s Connect
 
 - 📧 **Email:** jsamuelkamau@gmail.com  
-- 💼 **LinkedIn:** linkedin.com/in/samuel-jesse-8047b3123
+- 💼 **LinkedIn:** www.linkedin.com/in/samuel-jesse-8047b3123
 - 🐙 **GitHub:** You’re already here – feel free to explore the SmartSolve project and future labs.
 
 > Thanks for visiting my profile! I’m always learning – one lab, one ticket and one diagram at a time.
