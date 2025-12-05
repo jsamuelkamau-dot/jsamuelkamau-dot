@@ -62,13 +62,22 @@ I use **TryHackMe** to sharpen troubleshooting and security skills: endpoint har
 
 ### 🎖 Badges
 
-<!-- TODO: Replace BADGE_LINK_X with the real image URLs from your TryHackMe profile -->
 
-![TryHackMe Badge 1](BADGE_LINK_1)
-![TryHackMe Badge 2](BADGE_LINK_2)
-![TryHackMe Badge 3](BADGE_LINK_3)
-![TryHackMe Badge 4](BADGE_LINK_4)
-![TryHackMe Badge 5](BADGE_LINK_5)
+
+<img width="700" height="362" alt="image" src="https://github.com/user-attachments/assets/7097e0a4-3246-491f-ae8b-0468fea87391" />
+
+
+<img width="700" height="362" alt="image" src="https://github.com/user-attachments/assets/26289241-d183-4d4e-9e77-1a8417dc3ad2" />
+
+
+<img width="700" height="362" alt="image" src="https://github.com/user-attachments/assets/6b82ae45-e9cf-4fd6-b0ca-0b8c99ac56c3" />
+
+
+<img width="700" height="362" alt="image" src="https://github.com/user-attachments/assets/6565f6d3-5231-41d9-9fc6-48fce838b43b" />
+
+
+<img width="700" height="362" alt="image" src="https://github.com/user-attachments/assets/35f1663a-b96e-4b57-bda9-4dc1aaa1f2f2" />
+
 
 ### 🔍 Focus Areas
 
