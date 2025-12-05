@@ -90,9 +90,9 @@ I use **TryHackMe** to sharpen troubleshooting and security skills: endpoint har
 
 ## 🧰 Tech & Tools I Use
 
-- **Support & Operations:** Windows 10/11, printer & driver troubleshooting, remote support tools, ticketing (TeamSupport, JIRA).
+- **Support & Operations:** Windows 10/11, printer & driver troubleshooting, remote support tools, ticketing (ServiceNOW,TeamSupport, JIRA).
 - **Infrastructure & Cloud:** AWS (VPC, EC2, ALB, RDS, S3, IAM, CloudWatch), basic networking.
-- **Databases & Apps:** SQL Server, POS systems (H&L and similar).
+- **Databases & Apps:** SQL Server, Amazon RDS
 - **Security & Monitoring:** Antivirus, firewalls, endpoint security, log review, TryHackMe labs.
 - **Soft Skills:** Clear communication, client training, writing procedures, working independently and in teams.
 
@@ -106,7 +106,7 @@ I use **TryHackMe** to sharpen troubleshooting and security skills: endpoint har
 - **IT Support Technician – Amity Software Systems Limited (Kenya)**  
   7+ years supporting enterprise clients in retail and agribusiness – POS systems, printers, network configuration, SQL-based applications, and user training.
 
-- **Care & Support Roles – AnglicareSA & Kypseli Support Services**  
+- **Care & Support Roles – AnglicareSA & Kypseli Support Services (Adelaide, Australia)**  
   Built strong **customer-facing skills**: empathy, patience, clear communication, and responsibility in high-trust environments – the same approach I bring to IT support.
 
 - **Cybersecurity & Troubleshooting Practice – TryHackMe & Job Simulations**  
@@ -119,10 +119,10 @@ I use **TryHackMe** to sharpen troubleshooting and security skills: endpoint har
 I’m currently open to roles such as:
 
 - **L1–L2 Helpdesk / IT Support Technician**
-- **Cloud Support (AWS-focused)**
+- **Cloud Support Roles**
 - **IT Support with a Security / SOC angle**
 
-If your team needs someone who can **own tickets, communicate clearly with users, and grow into cloud & security responsibilities**, I’d be happy to connect.
+If your team needs someone who can **own tickets, communicate clearly with users, and grow into cloud & security responsibilities**, I would be happy to connect.
 
 ---
 
