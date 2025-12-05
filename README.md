@@ -19,11 +19,10 @@ I have 7+ years of hands-on IT support experience across Windows, networking, PO
 
 - ✅ **ITIL 4 Foundation Certified**
 - ✅ **Google IT Support Professional Certificate**
-- ✅ **Cisco Security Operations Centre (SOC) – Job Simulation / Training**
+- ✅ **Cisco Security Operations Centre (SOC)  (2024)**
 - ✅ **Linux Unhatched – Cisco (2024)**
-- 📚 **CompTIA Security+** – course completed on Udemy (preparing for certification exam)
-- 🎯 **Cybersecurity Job Simulations:** ANZ Australia & Telstra
-- 🧪 **Cisco Packet Tracer Enterprise Network Design Lab**
+- 📚 **CompTIA Security+** – course and Trainig completed on Udemy 
+
 
 > I combine formal ITIL & support experience with continuous learning in cloud and cybersecurity.
 
@@ -110,9 +109,33 @@ I use **TryHackMe** to sharpen troubleshooting and security skills: endpoint har
   Built strong **customer-facing skills**: empathy, patience, clear communication, and responsibility in high-trust environments – the same approach I bring to IT support.
 
 - **Cybersecurity & Troubleshooting Practice – TryHackMe & Job Simulations**  
-  Hands-on labs and simulations (ANZ, Telstra, Cisco SOC) to bridge IT support with security operations.
+ 
 
----
+  - **Cybersecurity Job Simulations:**  Hands-on labs and simulations (ANZ, Telstra, Cisco SOC) to bridge IT support with security operations.
+  
+
+## 🛰 Cisco Packet Tracer Labs (Advanced Diploma Telecommunications Networks- IN PROGRESS)
+
+As part of my Advanced Diploma in Telecommunications Network Engineering, I completed several hands-on Cisco Packet Tracer configurations that strengthened my networking fundamentals:
+
+- **Site-to-Site VPN Between HQ and Branch**  
+  Configured secure communication between two remote sites using VPN tunnels, crypto maps, routing, and verification commands.
+
+- **Router & Interface Module Selection**  
+  Identified and installed correct modules (Ethernet, Serial, WIC) on Cisco ISR routers to meet client connectivity requirements.
+
+- **Enterprise Network Design Basics**  
+  Built small enterprise topologies with routers, switches, wireless access points, and PCs, focusing on addressing, routing, and connectivity testing.
+
+- **Campus LAN & VLAN Concepts**  
+  Practised VLAN segmentation, trunking, and inter-switch connectivity to understand traffic separation and performance.
+
+- **Wireless Integration**  
+  Connected wireless access points through ISR routers and enabled end-to-end connectivity between wired and wireless segments.
+
+These labs gave me practical experience in selecting hardware, configuring interfaces, building secure networks, and troubleshooting real-world scenarios.
+
+
 
 ## 🎯 What I’m Looking For
 
