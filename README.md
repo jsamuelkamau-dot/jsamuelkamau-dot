@@ -144,11 +144,17 @@ These labs gave me practical experience in selecting hardware, configuring inter
 
 ## 🎯 What I’m Looking For
 
-I’m currently open to roles such as:
+I’m currently open to roles aligned to cloud and security such as:
 
-- **L1–L2 Helpdesk / IT Support Technician**
-- **Cloud Support Roles**
-- **IT Support with a Security / SOC angle**
+**Cloud Consultant**
+ 
+**Cloud Support Engineer**
+ 
+**Cloud Administrator**
+ 
+**Cloud and Cyber Security Analyst**
+ 
+**IT Support Technician**
 
 If your team needs someone who can **own tickets, communicate clearly with users, and grow into cloud & security responsibilities**, I would be happy to connect.
 
