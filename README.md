@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Samuel Jesse
 
-**IT Support Specialist | Aspiring Cloud & Cybersecurity Professional | ITIL-Aligned AWS Projects**
+**IT Support Specialist | Cloud & Cybersecurity Trainee | ITIL-Aligned AWS Projects**
 
-I have 7+ years of hands-on IT support experience across Windows, networking, POS systems and SQL, and I’m now focused on cloud, DevOps and security – especially **ITIL-aligned architectures on AWS** and practical cybersecurity labs.
+I have 7+ years of hands-on IT support experience across Windows, networking, POS systems and SQL, and I’m now focused on cloud, DevOps and security. I enjoy breaking down what I have learnt while  applying it in real world projects and practical Hands-on labs.
 
 ---
 
