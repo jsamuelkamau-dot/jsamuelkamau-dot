@@ -154,7 +154,7 @@ I’m currently open to roles aligned to cloud and security such as:
  
 **Cloud and Cyber Security Analyst**
  
-**IT Support Technician**
+**IT Support Technician(Cloud/Security Inclined)**
 
 If your team needs someone who can **own tickets, communicate clearly with users, and grow into cloud & security responsibilities**, I would be happy to connect.
 
